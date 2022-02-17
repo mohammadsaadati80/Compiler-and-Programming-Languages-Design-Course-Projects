@@ -4,3 +4,6 @@
 [submodule "Phase#2"]
 	path = "Phase#2"
 	url = https://github.com/mohammadsaadati80/Compiler-Phase2.git
+[submodule "Phase#3"]
+	path = "Phase#3"
+	url = https://github.com/mohammadsaadati80/Compiler-Phase3.git
